@@ -1,0 +1,2264 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Milford Sounds"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			167.645187,
+			-45.55589	
+        ]
+      },
+      "bbox": [
+      167.645187,
+			-45.55589,	
+        167.645187,
+			-45.55589	
+      ]
+    },
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Ohope"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			177.037124,
+			-37.965583
+        ]
+      },
+      "bbox": [
+      177.037124,
+			-37.965583,
+        177.037124,
+			-37.965583
+      ]
+    },
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Redwoods Rotorua"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			176.273563,
+			-38.157341
+        ]
+      },
+      "bbox": [
+      176.273563,
+			-38.157341,
+        176.273563,
+			-38.157341
+      ]
+    },
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Mount Maunganui (the Mountain itself)"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			176.170973,
+			-37.629955
+        ]
+      },
+      "bbox": [
+      176.170973,
+			-37.629955,
+        176.170973,
+			-37.629955
+      ]
+    },
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "The Bay of Islands, Specifically Waewaetorea Island north side."
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			174.213912,
+			-35.229803
+        ]
+      },
+      "bbox": [
+      174.213912,
+			-35.229803,
+        174.213912,
+			-35.229803
+      ]
+    },
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Tamatea Peak"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			167.168354,
+			 -45.691672	
+        ]
+      },
+      "bbox": [
+      167.168354,
+			 -45.691672,
+        167.168354,
+			 -45.691672
+      ]
+    },
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Ruakaka beach"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.461517,
+		  -35.903234   	
+        ]
+      },
+      "bbox": [
+       174.461517,
+		  -35.903234,
+        174.461517,
+		  -35.903234
+      ]
+    },
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Mount Cargill, Dunedin"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.555611,
+		  -45.813217   	
+        ]
+      },
+      "bbox": [
+       170.555611,
+		  -45.813217,
+        170.555611,
+		  -45.813217  
+      ]
+    },
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Pouakai hut in egmont national park"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.067447,
+		-39.270454       	
+        ]
+      },
+      "bbox": [
+       174.067447,
+		-39.270454,  
+        174.067447,
+		-39.270454  
+      ]
+    },
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Fiordland National Park"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.371215,
+		  -45.361795         	
+        ]
+      },
+      "bbox": [
+       167.371215,
+		  -45.361795,
+        167.371215,
+		  -45.361795
+      ]
+    },
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Queenstown"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.711547,	
+			-45.034714          	
+        ]
+      },
+      "bbox": [
+       168.711547,	
+			-45.034714,
+        168.711547,	
+			-45.034714 
+      ]
+    },
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Abel Tasman national park"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.056896,	
+			-40.956302          	
+        ]
+      },
+      "bbox": [
+       173.056896,	
+			-40.956302,
+        173.056896,	
+			-40.956302
+      ]
+    },	
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "This particular beach at Mimiwhangata."
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.42623,	
+			-35.443027          	
+        ]
+      },
+      "bbox": [
+       174.42623,	
+			-35.443027,
+        174.42623,	
+			-35.443027 	
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Endeavour Inlet"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.18025,	
+		  -41.095782
+        ]
+      },
+      "bbox": [
+       174.18025,	
+	   -41.095782,
+        174.18025,
+		-41.095782
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Milford Beach"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         174.765186,
+		 -36.772717
+        ]
+      },
+      "bbox": [
+       174.765186,
+		 -36.772717,
+        174.765186,
+		 -36.772717
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      
+        "Combined Sites": "The Catlins, Nugget Point"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.816658,
+		  -46.447957
+        ]
+      },
+      "bbox": [
+       169.816658,
+		  -46.447957,
+        169.816658,
+		  -46.447957
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Redwoods biking, Rotorus"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.251945,
+		  -38.176948
+        ]
+      },
+      "bbox": [
+       176.251945,
+		  -38.176948,
+        176.251945,
+		  -38.176948
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Totaranui beach in the Abel Tasman National Park"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.006,
+		  -40.822448
+        ]
+      },
+      "bbox": [
+        173.006,
+		  -40.822448,
+		  173.006,
+		  -40.822448
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Papamoa Hill"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.287271,
+		  -37.733039
+        ]
+      },
+      "bbox": [
+        176.287271,
+		  -37.733039,
+        176.287271,
+		  -37.733039
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Port Fitzroy, Great Barrier  Island"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.359821,
+		  -36.164487
+        ]
+      },
+      "bbox": [
+        175.359821,
+		  -36.164487,
+        175.359821,
+		  -36.164487
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Shakespear regional park"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.826357,
+		-36.61437
+        ]
+      },
+      "bbox": [
+         174.826357,
+		-36.61437,
+        174.826357,
+		-36.61437
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "milford beach walk"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.772582,
+			-36.770721
+        ]
+      },
+      "bbox": [
+        174.772582,
+			-36.770721,
+        174.772582,
+			-36.770721
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Whiritoa"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.900387,
+		  -37.28361373
+        ]
+      },
+      "bbox": [
+        175.900387,
+		  -37.28361373,
+       175.900387,
+		  -37.28361373
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Mt Ruapehu"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.565128,
+		  -39.276384
+        ]
+      },
+      "bbox": [
+       175.565128,
+		  -39.276384,
+        175.565128,
+		  -39.276384
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Flower Pot Lodge, Pitt Island"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          183.762702,
+		  -44.24072
+        ]
+      },
+      "bbox": [
+        183.762702,
+		  -44.24072,
+        183.762702,
+		  -44.24072
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Omapere"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.388247,
+		  -35.534635
+        ]
+      },
+      "bbox": [
+         173.388247,
+		  -35.534635,
+         173.388247,
+		  -35.534635
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        
+        "Combined Sites": "Pukawa"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.75211,
+		  -38.913976
+        ]
+      },
+      "bbox": [
+        175.75211,
+		  -38.913976,
+        175.75211,
+		  -38.913976
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Rocks highway, riverton"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			168.018091234813,
+			-46.38226531
+        ]
+      },
+      "bbox": [
+        168.018091234813,
+			-46.38226531,
+        168.018091234813,
+			-46.38226531
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "It is a nice isolated beach, which you can access from The Sailor Grave"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.842232,
+		  -36.957313
+        ]
+      },
+      "bbox": [
+        175.842232,
+		  -36.957313,
+         175.842232,
+		  -36.957313
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Little Palm Beach, Waiheke Island"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.04038,
+		  -36.780245
+        ]
+      },
+      "bbox": [
+        175.04038,
+		  -36.780245,
+        175.04038,
+		  -36.780245
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Whatarili beach"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.679758,
+		  -40.501987
+        ]
+      },
+      "bbox": [
+        172.679758,
+		  -40.501987,
+       172.679758,
+		  -40.501987
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "The coastal rocks in front of Bach cafe on the south coast of Wellington between Owhiro Bay and Island"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         174.763574,
+		 -41.348635
+        ]
+      },
+      "bbox": [
+        174.763574,
+		 -41.348635,
+        174.763574,
+		 -41.348635
+      ]
+    },
+	{
+      "type": "Feature",
+      "properties": {       
+        "Combined Sites": "Papamoa"        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.283187,
+		  -37.699577
+        ]
+      },
+      "bbox": [
+      176.283187,
+		  -37.699577,
+        176.283187,
+		  -37.699577
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Tawharanui Regional Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.839721,
+		  -36.370855
+        ]
+      },
+      "bbox": [
+       174.839721,
+		  -36.370855,
+        174.839721,
+		  -36.370855
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+       "Combined Sites": "Hauturu Island"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.089969,	
+		  -36.196079
+        ]
+      },
+      "bbox": [
+         175.089969,	
+		  -36.196079,
+         175.089969,	
+		  -36.196079
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        
+        "Combined Sites": "Mt Luxmore"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.571796,
+		  -45.389725
+        ]
+      },
+      "bbox": [
+       167.571796,
+		  -45.389725,
+        167.571796,
+		  -45.389725
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Whatipu"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.505301,
+		  -37.045278
+        ]
+      },
+      "bbox": [
+       174.505301,
+		  -37.045278,
+        174.505301,
+		  -37.045278
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Wanaka"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.133137,	
+		  -44.695909
+        ]
+      },
+      "bbox": [
+        169.133137,	
+		  -44.695909,
+        169.133137,	
+		  -44.695909
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Longbay"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.749565,
+		  -36.682186
+        ]
+      },
+      "bbox": [
+        174.749565,
+		  -36.682186,
+        174.749565,
+		  -36.682186
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Waitangi"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.0818414,	
+		  -35.26578382
+        ]
+      },
+      "bbox": [
+       174.0818414,	
+		  -35.26578382,
+       174.0818414,	
+		  -35.26578382
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Rangitoto Island"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.863719,
+		  -36.787978
+        ]
+      },
+      "bbox": [
+         174.863719,
+		  -36.787978,
+         174.863719,
+		  -36.787978
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Queenstown"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.660886,
+		  -45.030984
+        ]
+      },
+      "bbox": [
+        168.660886,
+		  -45.030984,
+        168.660886,
+		  -45.030984
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Lake Waikaremoana"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.038068,
+		  -38.743373
+        ]
+      },
+      "bbox": [
+        177.038068,
+		  -38.743373,
+		  177.038068,
+		  -38.743373
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Along the Desert Road (Highway 1 near Tongariro National Park"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.735244,
+		  -39.243953
+        ]
+      },
+      "bbox": [
+        175.735244,
+		  -39.243953,
+        175.735244,
+		  -39.243953
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "At and around the Church of Good Shepherd in Tekapo"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.482443,
+		  -44.0034
+        ]
+      },
+      "bbox": [
+        170.482443,
+		  -44.0034,
+        170.482443,
+		  -44.0034
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Motutara Farm, Whananaki North"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.477207,
+		  -35.513812
+        ]
+      },
+      "bbox": [
+        174.477207,
+		  -35.513812,
+         174.477207,
+		  -35.513812
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Milford Sound"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.937255,
+		  -45.510196
+        ]
+      },
+      "bbox": [
+         166.937255,
+		  -45.510196,
+        166.937255,
+		  -45.510196
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Mokoia Island in the middle of lake Rotorua"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.286964,
+		  -38.079446
+        ]
+      },
+      "bbox": [
+        176.286964,
+		  -38.079446,
+        176.286964,
+		  -38.079446
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Hangdog camp; climbing areas around"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.812881,
+		  -40.882306
+        ]
+      },
+      "bbox": [
+       172.812881,
+		  -40.882306,
+		  172.812881,
+		  -40.882306
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Opinoni. Specifically the camp grounds"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.391052,
+		  -35.508397
+        ]
+      },
+      "bbox": [
+       173.391052,
+		  -35.508397,
+        173.391052,
+		  -35.508397
+      ]
+    },	
+	 {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Castle point lighthouse"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.2313138,
+		  -40.90041763         	
+        ]
+      },
+      "bbox": [
+       176.2313138,
+		  -40.90041763,  
+        176.2313138,
+		  -40.90041763  
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Warren Cole walkway, Whakatane Riverbank, near the yacht club"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.993839,
+		  -37.9498185
+        ]
+      },
+      "bbox": [
+       176.993839,
+		  -37.9498185,
+        176.993839,
+		  -37.9498185
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Oneroa Beach, Long Beach Rd., Russell"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         174.132753,
+		 -35.259069
+        ]
+      },
+      "bbox": [
+       174.132753,
+	   -35.259069,
+        174.132753,
+	   -35.259069
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      
+        "Combined Sites": "Belt Road, Seaside Holiday Park, New Plymouth"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.053971,
+		  -39.057989
+        ]
+      },
+      "bbox": [
+       174.053971,
+		  -39.057989,
+        174.053971,
+		  -39.057989
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Long Beach, Russell, Far North of the North Island."
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.136886,
+		  -35.260889
+        ]
+      },
+      "bbox": [
+        174.136886,
+		  -35.260889,
+         174.136886,
+		  -35.260889
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Rotorua city"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.253694,
+		  -38.134235
+        ]
+      },
+      "bbox": [
+        176.253694,
+		  -38.134235,
+		  176.253694,
+		  -38.134235
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Spirits Bay, Far North"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.835007,
+		  -34.445172
+        ]
+      },
+      "bbox": [
+        172.835007,
+		  -34.445172,
+        172.835007,
+		  -34.445172
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "The Coromandel Range"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.536904,
+		  -37.020521
+        ]
+      },
+      "bbox": [
+        175.536904,
+		  -37.020521,
+        175.536904,
+		  -37.020521
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "The Port Motueka Marina"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.02102,
+		  -41.136423
+        ]
+      },
+      "bbox": [
+         173.02102,
+		  -41.136423,
+        173.02102,
+		  -41.136423
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Milford Road"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         167.904052,
+		 -45.023067
+        ]
+      },
+      "bbox": [
+        167.904052,
+		 -45.023067,
+        167.904052,
+		 -45.023067
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Franz Joseph"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.148696,
+		  -43.395069
+        ]
+      },
+      "bbox": [
+        170.148696,
+		  -43.395069,
+        170.148696,
+		  -43.395069
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Little Huia"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.56008,
+		  -37.015093
+        ]
+      },
+      "bbox": [
+       174.56008,
+		  -37.015093,
+        174.56008,
+		  -37.015093
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Orongoronga forest  park"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.934139,
+		  -41.359761
+        ]
+      },
+      "bbox": [
+       174.934139,
+		  -41.359761,
+        174.934139,
+		  -41.359761
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Tongariro Nat park"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.621948,
+		  -39.240975
+        ]
+      },
+      "bbox": [
+         175.621948,
+		  -39.240975,
+         175.621948,
+		  -39.240975
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        
+        "Combined Sites": "This bay on Urapukapuka Island"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.224882,
+		  -35.212666
+        ]
+      },
+      "bbox": [
+        174.224882,
+		  -35.212666,
+        174.224882,
+		  -35.212666
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Beveridge Track, Titirangi"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			174.647437,	
+			-36.940785
+        ]
+      },
+      "bbox": [
+        174.647437,	
+			-36.940785,
+        174.647437,	
+			-36.940785
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "It is a nice isolated beach, which you can access from The Sailor Grave"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.842232,
+		  -36.957313
+        ]
+      },
+      "bbox": [
+        175.842232,
+		  -36.957313,
+         175.842232,
+		  -36.957313
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Ruakuri Bushwalk"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.066666,
+		  -38.26638
+        ]
+      },
+      "bbox": [
+        175.066666,
+		  -38.26638,
+        175.066666,
+		  -38.26638
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Mount karangahake. To be specific about halfway up going via the easy grade ascension there is a pad"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.725089,
+		  -37.437312
+        ]
+      },
+      "bbox": [
+        175.725089,
+		  -37.437312,
+       175.725089,
+		  -37.437312
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Wanaka"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         169.127655,
+		 -44.699051
+        ]
+      },
+      "bbox": [
+        169.127655,
+		 -44.699051,
+        169.127655,
+		 -44.699051
+      ]
+    },
+	{
+      "type": "Feature",
+      "properties": {       
+        "Combined Sites": "Muriwai"        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.437227,
+		  -36.826325
+        ]
+      },
+      "bbox": [
+      174.437227,
+		  -36.826325,
+        174.437227,
+		  -36.826325
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "A spot on mt Pirongia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.111598,
+		  -37.982714
+        ]
+      },
+      "bbox": [
+       175.111598,
+		  -37.982714,
+        175.111598,
+		  -37.982714
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+       "Combined Sites": "A spot on mt Pirongia"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.111598,
+		  -37.982714
+        ]
+      },
+      "bbox": [
+         175.111598,
+		  -37.982714,
+         175.111598,
+		  -37.982714
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        
+        "Combined Sites": "Denniston Plateau"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.797804,
+		  -41.740705
+        ]
+      },
+      "bbox": [
+        171.797804,
+		  -41.740705,
+         171.797804,
+		  -41.740705
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Ulva Island off Stuart Island"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.134721,
+		  -46.930616
+        ]
+      },
+      "bbox": [
+        168.134721,
+		  -46.930616,
+        168.134721,
+		  -46.930616
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Piha beach"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.469318,
+		  -36.954996
+        ]
+      },
+      "bbox": [
+        174.469318,
+		  -36.954996,
+        174.469318,
+		  -36.954996
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Te Mata creek"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.504177,
+		  -36.96674
+        ]
+      },
+      "bbox": [
+        175.504177,
+		  -36.96674,
+        175.504177,
+		  -36.96674
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Matata Straights, BOP"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.680927,
+		  -37.864554
+        ]
+      },
+      "bbox": [
+        176.680927,
+		  -37.864554,
+        176.680927,
+		  -37.864554
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "The waterhole in ararimu"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.986329,
+		  -37.141515
+        ]
+      },
+      "bbox": [
+         174.986329,
+		  -37.141515,
+          174.986329,
+		  -37.141515
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Disappointment island"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         165.980587,
+		 -50.607645
+        ]
+      },
+      "bbox": [
+        165.980587,
+		 -50.607645,
+        165.980587,
+		 -50.607645
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Downtown Napier"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.918592,
+		  -39.498146
+        ]
+      },
+      "bbox": [
+        176.918592,
+		  -39.498146,
+		  176.918592,
+		  -39.498146
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Botanical Gardens of Wellington"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         174.767031,
+		 -41.283808
+        ]
+      },
+      "bbox": [
+        174.767031,
+		 -41.283808,
+        174.767031,
+		 -41.283808
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Moke Lake, Queenstown, Otago"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         168.573532,
+		 -44.99893
+        ]
+      },
+      "bbox": [
+        168.573532,
+		 -44.99893,
+         168.573532,
+		 -44.99893
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Ruakaka beach"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.459478, 
+		  -35.905606
+        ]
+      },
+      "bbox": [
+        174.459478, 
+		  -35.905606,
+         174.459478, 
+		  -35.905606
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Tuahine point/Wainui Beach"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.065719,
+		  -38.695156
+        ]
+      },
+      "bbox": [
+          178.065719,
+		  -38.695156,
+         178.065719,
+		  -38.695156
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Little Ngakuta Bay, Queen Charlotte Sound"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.969364,
+		  -41.27293
+        ]
+      },
+      "bbox": [
+        173.969364,
+		  -41.27293,
+        173.969364,
+		  -41.27293
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "My house"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         176.695919,
+		 -39.880805
+        ]
+      },
+      "bbox": [
+        176.695919,
+		 -39.880805,
+		   176.695919,
+		 -39.880805
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Tupare garden in New Plymouth"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.111553,
+		  -39.088232
+        ]
+      },
+      "bbox": [
+       174.111553,
+		  -39.088232,
+        174.111553,
+		  -39.088232
+      ]
+    },
+	{
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Taylors mistake"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.777519,
+		  -43.58238      	
+        ]
+      },
+      "bbox": [
+       172.777519,
+		  -43.58238,
+        172.777519,
+		  -43.58238
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Te Pukatea Bay"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.06591,
+		  -40.953909
+        ]
+      },
+      "bbox": [
+       173.06591,
+		  -40.953909,
+        173.06591,
+		  -40.953909
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Lake Pukaki / Mt Cook viewing area"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         170.1411,
+		 -44.190266
+        ]
+      },
+      "bbox": [
+       170.1411,
+		 -44.190266,
+        170.1411,
+		 -44.190266
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      
+        "Combined Sites": "Down the back of my family farm"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         167.953165,
+		 -46.257971
+        ]
+      },
+      "bbox": [
+        167.953165,
+		 -46.257971,
+         167.953165,
+		 -46.257971
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Oparara Basin Westcoast"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         172.194119,
+		 -41.145613
+        ]
+      },
+      "bbox": [
+       172.194119,
+		 -41.145613,
+         172.194119,
+		 -41.145613
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Mapua wharf/Rabbit Island "
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.101927,
+		  -41.256016
+        ]
+      },
+      "bbox": [
+         173.101927,
+		  -41.256016,
+		   173.101927,
+		  -41.256016
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Ocean Beach at Whangarei heads, on a little mountain pillar"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         174.577639,
+		 -35.839136
+        ]
+      },
+      "bbox": [
+        174.577639,
+		 -35.839136,
+         174.577639,
+		 -35.839136
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Kaiteriteri beach"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.014068,
+		  -41.037412
+        ]
+      },
+      "bbox": [
+         173.014068,
+		  -41.037412,
+         173.014068,
+		  -41.037412
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "The walks on the mountain"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.840915,
+		  -39.729633
+        ]
+      },
+      "bbox": [
+          176.840915,
+		  -39.729633,
+         176.840915,
+		  -39.729633
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Hahei, Coromandel"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         175.808715,
+		 -36.856807
+        ]
+      },
+      "bbox": [
+         175.808715,
+		 -36.856807,
+         175.808715,
+		 -36.856807
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Sunflower Motels, Pohara"
+      
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.8688,
+		  -40.834398
+        ]
+      },
+      "bbox": [
+        172.8688,
+		  -40.834398,
+        172.8688,
+		  -40.834398
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "South Auckland"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         174.859986,
+		 -36.984808
+        ]
+      },
+      "bbox": [
+       174.859986,
+		 -36.984808,
+        174.859986,
+		 -36.984808
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Queenstown"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         168.647896, 
+		 -45.025647
+        ]
+      },
+      "bbox": [
+       168.647896, 
+		 -45.025647,
+        168.647896, 
+		 -45.025647
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Park in arrowtown"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         168.838162,
+		 -44.897354
+        ]
+      },
+      "bbox": [
+         168.838162,
+		 -44.897354,
+        168.838162,
+		 -44.897354
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        
+        "Combined Sites": "Victoria Esplanade"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.616626,
+		  -40.371806
+        ]
+      },
+      "bbox": [
+         175.616626,
+		  -40.371806,
+        175.616626,
+		  -40.371806
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Rotorua lake"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+			176.252826,
+			-38.13947
+        ]
+      },
+      "bbox": [
+        176.252826,
+			-38.13947,
+        176.252826,
+			-38.13947
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Glenorchy"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.348999,
+		  -44.84102
+        ]
+      },
+      "bbox": [
+        168.348999,
+		  -44.84102,
+         168.348999,
+		  -44.84102
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Takapuna"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.768962,
+		  -36.789903
+        ]
+      },
+      "bbox": [
+       174.768962,
+		  -36.789903,
+        174.768962,
+		  -36.789903
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Museum of transport and technology"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.727146,
+		  -36.869101
+        ]
+      },
+      "bbox": [
+        174.727146,
+		  -36.869101,
+       174.727146,
+		  -36.869101
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Auckland"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         174.74626,
+		 -36.829313
+        ]
+      },
+      "bbox": [
+        174.74626,
+		 -36.829313,
+       174.74626,
+		 -36.829313
+      ]
+    },
+	{
+      "type": "Feature",
+      "properties": {       
+        "Combined Sites": "Owhata harbour"        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.191435,
+		  -35.300172
+        ]
+      },
+      "bbox": [
+       173.191435,
+		  -35.300172,
+         173.191435,
+		  -35.300172
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "On top of Mt Luna, Kahurangi National Park."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.462863,
+		  -41.394131
+        ]
+      },
+      "bbox": [
+      172.462863,
+		  -41.394131,
+        172.462863,
+		  -41.394131
+     ]
+    }	
+  ]
+}
