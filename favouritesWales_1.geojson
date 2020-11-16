@@ -1,0 +1,313 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Dinas Cromlech, Llanberis Pass"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          	-4.0470457,	
+			53.0919881          	
+        ]
+      },
+      "bbox": [
+       -4.0470457,	
+			53.0919881,
+        -4.0470457,	
+			53.0919881 	
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Caernarfon Town Square (Maes)"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2741669,	
+		  53.1392929
+        ]
+      },
+      "bbox": [
+       -4.2741669,	
+		  53.1392929,
+        -4.2741669,	
+		  53.1392929
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Near Garn For, above Trefor"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.4356226,
+		 52.9854437
+        ]
+      },
+      "bbox": [
+       -4.4356226,
+		 52.9854437,
+        -4.4356226,
+		 52.9854437
+      ]
+    },
+	
+	{
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Tregarth"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.0889739,
+		 53.189579
+        ]
+      },
+      "bbox": [
+       -4.0889739,
+		 53.189579,
+        -4.0889739,
+		 53.189579
+      ]
+    },
+	
+	
+		{
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Llanddwyn Lighthouse at the Newborough beach"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.4153022,
+		 53.1350058
+        ]
+      },
+      "bbox": [
+       -4.4153022,
+		 53.1350058,
+        -4.4153022,
+		 53.1350058
+      ]
+    },
+	
+	
+			{
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Penmon Lighthouse"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.0412145,
+		 53.3125829
+        ]
+      },
+      "bbox": [
+      -4.0412145,
+		 53.3125829,
+        -4.0412145,
+		 53.3125829
+      ]
+    },
+	
+	{
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "A spot in the woods on a hill looking down onto llyn padarn"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.1293573,
+		 53.1334095
+        ]
+      },
+      "bbox": [
+       -4.1293573,
+		 53.1334095,
+        -4.1293573,
+		 53.1334095
+      ]
+    },
+	
+	{
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Foel Fras"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -3.9525318,
+		 53.1946528
+        ]
+      },
+      "bbox": [
+       -3.9525318,
+		 53.1946528,
+       -3.9525318,
+		 53.1946528
+      ]
+    },
+	
+	{
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Swallow Falls"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -3.8050836,
+		 53.0934828
+        ]
+      },
+      "bbox": [
+       -3.8050836,
+		 53.0934828,
+        -3.8050836,
+		 53.0934828
+      ]
+    },
+	
+	{
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Llanrwst North Train Station"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -3.8025999,
+		 53.1439942
+        ]
+      },
+      "bbox": [
+       -3.8025999,
+		 53.1439942,
+        -3.8025999,
+		 53.1439942
+      ]
+    },
+	
+	{
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "top of hill on back lane between Talwrn and Llanbedrgoch"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.2583608,
+		 53.2906297
+        ]
+      },
+      "bbox": [
+       -4.2583608,
+		 53.2906297,
+        -4.2583608,
+		 53.2906297
+      ]
+    },
+	
+	
+	{
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "my garden"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.2657852,
+		 53.1405796
+        ]
+      },
+      "bbox": [
+       -4.2657852,
+		 53.1405796,
+         -4.2657852,
+		 53.1405796
+      ]
+    },
+	
+	{
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Roman Camp Hill"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.1275656,
+		 53.2339376
+        ]
+      },
+      "bbox": [
+       -4.1275656,
+		 53.2339376,
+        -4.1275656,
+		 53.2339376
+      ]
+    },
+	
+	
+		{
+      "type": "Feature",
+      "properties": {
+       
+        "Combined Sites": "Ynys Llanddwyn/Newborough beach"
+       
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -4.3695116,
+		 53.1360099
+        ]
+      },
+      "bbox": [
+       -4.3695116,
+		 53.1360099,
+       -4.3695116,
+		 53.1360099
+      ]
+    }	
+  ]
+}
