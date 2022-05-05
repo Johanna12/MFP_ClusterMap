@@ -84,7 +84,9 @@
         -4.0889739,
 		 53.189579
       ]
-    },	
+    },
+	
+	
 		{
       "type": "Feature",
       "properties": {
@@ -105,7 +107,9 @@
         -4.4153022,
 		 53.1350058
       ]
-    },	
+    },
+	
+	
 			{
       "type": "Feature",
       "properties": {
@@ -126,7 +130,8 @@
         -4.0412145,
 		 53.3125829
       ]
-    },	
+    },
+	
 	{
       "type": "Feature",
       "properties": {
@@ -147,7 +152,8 @@
         -4.1293573,
 		 53.1334095
       ]
-    },	
+    },
+	
 	{
       "type": "Feature",
       "properties": {
@@ -168,7 +174,8 @@
        -3.9525318,
 		 53.1946528
       ]
-    },	
+    },
+	
 	{
       "type": "Feature",
       "properties": {
@@ -189,7 +196,8 @@
         -3.8050836,
 		 53.0934828
       ]
-    },	
+    },
+	
 	{
       "type": "Feature",
       "properties": {
@@ -210,7 +218,8 @@
         -3.8025999,
 		 53.1439942
       ]
-    },	
+    },
+	
 	{
       "type": "Feature",
       "properties": {
@@ -231,7 +240,9 @@
         -4.2583608,
 		 53.2906297
       ]
-    },	
+    },
+	
+	
 	{
       "type": "Feature",
       "properties": {
@@ -252,7 +263,8 @@
          -4.2657852,
 		 53.1405796
       ]
-    },	
+    },
+	
 	{
       "type": "Feature",
       "properties": {
@@ -274,7 +286,7 @@
 		 53.2339376
       ]
     },
-	{
+	  {
       "type": "Feature",
       "properties": {
        
@@ -295,7 +307,8 @@
 		 52.8212562
       ]
     },
-	  {
+	  
+	 {
       "type": "Feature",
       "properties": {
        
@@ -335,12 +348,12 @@
         -3.8324153,
 		 53.3304308
       ]
-    },	  
-	   {
+    },	
+	  {
       "type": "Feature",
       "properties": {
        
-        "Combined Sites": "Llyn Idwal (Devil's Kitchen)"       
+        "Combined Sites": "Llyn Idwal (Devils Kitchen)"       
       },
       "geometry": {
         "type": "Point",
@@ -356,7 +369,7 @@
 		 53.1165676
       ]
     },	  
-	  	   {
+	   {
       "type": "Feature",
       "properties": {
        
@@ -395,7 +408,7 @@
         -4.693737,
 		 51.6725751
       ]
-    },	  
+    },	
 	  {
       "type": "Feature",
       "properties": {
@@ -436,7 +449,7 @@
 		 52.9068444
       ]
     },	  
-	  	    {
+	  {
       "type": "Feature",
       "properties": {
        
@@ -475,8 +488,8 @@
         -4.022026,
 		 53.0488498
       ]
-	},	  
-	  	  	  	    {
+	},	
+	  {
       "type": "Feature",
       "properties": {
        
@@ -495,8 +508,9 @@
         -4.479686,
 		 52.8541927
       ]
-		},	  
-	    {
+		},
+	  
+	  {
       "type": "Feature",
       "properties": {
        
@@ -515,12 +529,13 @@
         -4.1789245,
 		 53.2175462
       ]
-		},	  
+		},
+	  
 	  {
       "type": "Feature",
       "properties": {
        
-        "Somewhere just above rheadr abergwyngregyn"       
+        "Combined Sites": "Somewhere just above rheadr abergwyngregyn"       
       },
       "geometry": {
         "type": "Point",
@@ -535,7 +550,8 @@
         -3.9925003,
 		 53.20521
       ]
-		},	  	
+		},	  
+	 	
 		{
       "type": "Feature",
       "properties": {
